@@ -6,6 +6,16 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.h
+*.bak
+*.xml
+*.sln
+*.vcxproj
+*.vcxproj.*
+.gitignore
+*.pyproj
+
+
 
 # Build results
 [Dd]ebug/
